@@ -33,7 +33,7 @@ Get-PSRepository -Name 'Processa GT'
 
 2. Actualice el módulo desde el Repositorio
 ```powershell
-Update-Module -Name 'PSProcessa' -Force
+Update-Module -Name 'PSGateway' -Force
 ```
 
 ## Desinstalando PSGateway
@@ -42,5 +42,5 @@ Update-Module -Name 'PSProcessa' -Force
 
 2. Ejecute el comando
 ```
-Uninstall-Module PSProcessa
+Uninstall-Module PSGateway
 ```
