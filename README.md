@@ -12,4 +12,4 @@ Las carpetas corresponden a los siguientes recursos de información:
 | Carpeta  | Descripción  |
 |:---|---|
 | [Instalation](Instalation)  | Instalación de PSGateway |
-| [Operations >> Account Balance](Operations/Invoke-AccountBalance)  | Obtiene el balance de las cuentas del cliente. |
+| [Operations >> Account Balance](Operations/Invoke-AccountBalance.md)  | Obtiene el balance de las cuentas del cliente. |
