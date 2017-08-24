@@ -126,14 +126,14 @@ Accept wildcard characters: False
 
 ## OUTPUTS
 
-### [Processa.Library.Services.Gateway.Commands.AccountBalanceBaseResponse]
+### [Processa.RabbitMQ.Services.Gateway.Contracts.Commands.AccountBalanceBaseResponse
 
 ## NOTES
 Author: Gabriel Eduardo Duarte Vega
 
 ## RELATED LINKS
 
-[[New-GatewayXmlRequest](New-GatewayXmlRequest.md)]()
+[[Get-XmlDocumentRequest](Get-XmlDocumentRequest.md)]()
 
 [[Invoke-Gateway](Invoke-Gateway.md)]()
 
